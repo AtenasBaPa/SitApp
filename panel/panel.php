@@ -14,7 +14,9 @@
     
 <nav class="navbar">
   <div class="navbar-container">
-    <a href="#" class="logo"><img src="sources/img/SIT-APP.svg"></a>
+    <div class="logo">
+    <a href="#"><img src="sources/img/SIT-APP.svg"><div class="titulo"></div></a>
+    </div>
     <div class="navbar-links">
       <a href="#">NOSOTROS</a>
       <a href="#" class="login-btn">INICIAR SESIÓN</a>

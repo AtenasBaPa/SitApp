@@ -22,14 +22,11 @@
   }
   
   .logo {
-    font-size: 24px;
-    font-weight: bold;
-    color: white;
-    text-decoration: none;
+    width: 50%;
   }
 
   .logo img{
-    width: 15%;
+    width: 100px;
   }
   
   .navbar-links {
