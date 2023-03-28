@@ -13,5 +13,5 @@ https://trello.com/b/HY04rauN/sitapp
 ## (っಠ‿ಠ)っ
 
 
-#### Todo el contenido de este repositorio es con uso meramente académico para nuestro proyecto final de la materia Desarrollo Basado en Modelos a cargo del profesor Juan Manuel González Calleros
+#### Todo el contenido de este repositorio es con uso meramente académico para nuestro proyecto final de la materia Desarrollo Basado en Modelos a cargo del Dr. Juan Manuel González Calleros
 #### Benemérita Universidad Autónoma de Puebla
