@@ -3,7 +3,7 @@ Repositorio que contendrá todos los recursos de la elaboración de la Aplicaci�
 
 °•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●
 
-## Enlace al Seguimiento del Proyecto en Trello
+## Enlace al Seguimiento del Proyecto en Trello (Scrum Board)
 △▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽
 
 https://trello.com/b/HY04rauN/sitapp
