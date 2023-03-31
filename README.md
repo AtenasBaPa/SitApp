@@ -1,5 +1,5 @@
 # SitApp
-Repositorio que contendrá todos los recursos de la elaboración de la Aplicación Web "SitApp", la cual se encarga de la gestión de la información vial de los conductores del estado de Puebla.
+Repositorio que contendrá todos los recursos de la elaboración de la Aplicación Web "SitApp", la cual se encarga de la gestión de la información vial de los conductores del estado de Puebla y también a motivarlos para ser mejores conductores.
 
 °•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●
 
