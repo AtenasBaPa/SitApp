@@ -3,10 +3,11 @@ Repositorio que contendrá todos los recursos de la elaboración de la Aplicaci�
 
 °•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●°•○●
 
-## Enlace al Seguimiento del Proyecto en Trello (Scrum Board)
+## Enlace al Seguimiento del Proyecto en Trello (Scrum Board) y enlace a diseños de Figma
 △▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽
 
 https://trello.com/b/HY04rauN/sitapp
+https://www.figma.com/file/M9GfsEUCcrFapqmqqpQV4z/SitApp?node-id=23%3A2&t=efxM2vf8vS28jMzW-1
 
 △▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽
   
