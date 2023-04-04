@@ -1,0 +1,45 @@
+
+footer {
+    background-color: #2B3467;
+    position: fixed;
+    bottom: 0;
+    width: 110%;
+    left: 0;
+    box-sizing: border-box;
+    height: 250px;
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logopuebla img {
+    height: 100px;
+   position: fixed;
+  }
+  
+  .social-links {
+    
+  }
+  
+  .social-link {
+    
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  .social-link img{
+    width: 40px;
+  }
+  
+  .text{
+    
+    color: white;
+    
+  }
+  td{
+
+  }
