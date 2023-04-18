@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>SitApp-Inicio de Sesion</title>
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.1/tailwind.min.css'>
+	<script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/flowbite@1.4.0/dist/flowbite.js"></script>
+    <script src="https://unpkg.com/flowbite@1.4.0/dist/flowbite.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="css/estiloLogin.css"/>
+<!--
+	@vite('resources/css/estiloLogin.css')
+-->
+</head>
+<body class="font-sans bg-white" >
+	
+	<div class="w-72 h-32" style="background-image:url(img/Logos/1.svg);background-size: 40%;  background-position:right;background-repeat:no-repeat;"></div>
+			<form class=" drop-shadow-sm text-center absolute w-96 h-96 left-12 top-32  bg-indigo-300 rounded-3xl">
+				<h1 class=" truncate top-12 text-white leading-10 text-4xl font-bold">Registro de Usuario</h1>
+				<div class="">
+					<input type="text" class="" value="" placeholder="Ingrese su Usuario" id="login-name"> <!--  input para ingresar Usuario  -->
+					<label class="" for="login-name"></label>
+					<input type="text" class="" value="" placeholder="Ingrese su Numero de Licencia " id="login-name"> <!--  input para ingresarNumero de Licencia -->
+					<label class="" for="login-name"></label>
+					<input type="text" class="" value="" placeholder="Ingrese su Curp" id="login-name"> <!--  input para ingresar su Curp -->
+					<label class="" for="login-name"></label>
+					<input type="password" class="" value="" placeholder="Ingrese su Contraseña" id="login-pass"> <!-- input para colocar password -->
+					<label class="" for="login-pass"></label>
+                    <input type="password" class="" value="" placeholder="Ingrese su Contraseña Nuevamente" id="login-pass"> <!-- input para colocar password nuevamente -->
+					<label class="" for="login-pass"></label>
+				</div>
+				<a class="btn btn-primary btn-large btn-block" href="#">Registrarse</a>
+				<a class="login-link" href="registro.html">¿Ya tiene su cuenta? Inicie Sesion</a>
+				<a class="login-return" href="#">volver</a>
+			</form>
+
+</body>
+</html>
