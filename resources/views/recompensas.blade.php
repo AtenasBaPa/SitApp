@@ -17,7 +17,7 @@
                         <div class="col-span-1 p-1.5"><img class="w-24 ml-10" src="img/gas.png"></div>
                         <div class="col-span-2 text-center text-2xl p-1.5">25% de descuento en  cualquier gasolinera de Pemex</div>
                         <div class="col-span-3 text-center p-1.5">
-                        <div class="bg-green-600 h-2 w-full"></div>    
+                        <div class="h-2 w-full" style="border:2px solid"><div class="bg-green-600 h-1 mr-10"></div></div>    
                         Necesitas 300 puntos mas para tu siguiente recompensa</div>
                     </div>
                 </div>
@@ -28,8 +28,8 @@
                         <div class="col-span-1 p-1.5"><img class="w-24 ml-10" src="img/verificacion.png"></div>
                         <div class="col-span-2 text-center text-2xl p-1.5">35% de descuento en su siguiente verificación vehicular</div>
                         <div class="col-span-3 text-center p-1.5">
-                        <div class="bg-green-600 h-2 w-full"></div>    
-                        Necesitas 300 puntos mas para tu siguiente recompensa</div>
+                        <div class="h-2 w-full" style="border:2px solid"><div class="bg-green-600 h-1 mr-20"></div></div>  
+                        Necesitas 350 puntos mas para tu siguiente recompensa</div>
                     </div>
                 </div>
             <div class="col-span-2 text-center text-2xl">¡Cada vez que seas un conductor <br> responsable obtendrás puntos <br> y podrás ganar increibles recompensas!</div>
