@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box; /* se calcula el ancho y alto total de un elemento */ 
+
+    }
+    
+    *:focus {
+        outline: none; /*  seleccionar el elemento que tiene el foco */
+    }
+
+    body { /* cuerpo de todo lo que sera el diseño de la pagina */
+        background-color: #ffffff;
+        font-family: 'Inria Sans';
+        background-image: url("css/img/transito4.jpeg");
+        background-repeat: no-repeat;
+        background-position: 120% 28%; 
+        background-size: 750px 1000px;
+    }
+
+
+    .login-screen { /* todo lo que estara adentro de login */
+        position: absolute;
+        width: 490px;
+        height: 380px;
+        left: 48px;
+        top: 127px;
+        background: rgba(43, 52, 103, 0.5);
+        border-radius: 64px;
+    }
+    
+    .app-title { /* El titulo  */
+        font-family: 'Inria Sans';
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 58px;
+        text-align: center;
+        color: #FFFFFF;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    .login-form { /* estara centrado  */
+      text-align: center;
+    }
+    .control-group { /* el tamaño que se le dara */
+        
+        width: 480px;
+        height: 69px;
+        left: 250px;
+        top: 143px;
+    }
+    
+    input { /*  diseño del input */
+        text-align: left;
+        background-color: #FFFFFF;
+        border: 2px solid transparent;
+        border-radius: 10px;
+        font-size: 20px;
+        font-weight: 300;
+        padding: 10px 0;
+        width: 350px;
+        transition: border .5s;
+    }
+    
+    input:focus { /* el diseño en el input del foco  */
+        border: 9px solid rgba(43, 52, 103, 0.5);
+        box-shadow: none;
+    
+    }
+    
+    .btn { /* Lo que estara adentro del boton */
+      border: 2px solid transparent;
+      background: rgba(43, 52, 103, 1);
+      color: #ffffff;
+      font-size: 28px;
+      line-height: 25px;
+      padding: 10px 0;
+      text-decoration: none;
+      text-shadow: none;
+      border-radius: 10px;
+      box-shadow: none;
+      transition: 0.25s;
+      display: block;
+      width: 250px;
+      margin: 0 auto;
+    }
+    
+    .btn:hover { /* color del boton */
+        background: rgba(43, 52, 103, 0.5);
+    }
+    
+    .login-link { /* para hacer la referencia */
+      font-size: 20px;
+      color: #FFFFFF;
+      display: block;
+      margin-top: 12px;
+    }
+
+    .login-return{ /* todo lo que sera adentro */
+        position: absolute;
+        left: 200px;
+        top: 380px;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 38px;
+        text-align: center;
+        color: #2B3467;
+    }
