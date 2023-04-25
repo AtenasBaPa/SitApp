@@ -14,6 +14,8 @@
         </div>
 
     </div>
+
+    <div class="h-16"></div>
     <!--titulo de infracción-->
     <div class="h-20 w-full text-center py-6 text-3xl font-extrabold "> Infracciones</div>
     <!--Columnas de las infracciones-->
