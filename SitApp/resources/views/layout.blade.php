@@ -9,12 +9,12 @@
     <script src="https://unpkg.com/flowbite@1.4.0/dist/flowbite.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
     <title>SitApp</title>
-    <?php echo app('Illuminate\Foundation\Vite')('resources/css/app.css'); ?>
-    <?php echo app('Illuminate\Foundation\Vite')('resources/css/navbar.css'); ?>
+    @vite('resources/css/app.css')
+    @vite('resources/css/navbar.css')
 </head>
 
 <body class="pb-80 pt-32 relative min-h-screen">
-    <?php echo $__env->yieldContent('content'); ?>
+    @yield('content')
     <!--NAVBAR DE LA PAGINA-->
     <div class="container">
             <nav class="navbar">
@@ -57,4 +57,3 @@
 </body>
 
 </html>
-<?php /**PATH C:\xampp\htdocs\SitApp\resources\views/layout.blade.php ENDPATH**/ ?>

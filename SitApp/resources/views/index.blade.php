@@ -1,4 +1,5 @@
-<?php $__env->startSection('content'); ?>
+@extends('layout')
+@section('content')
 <!--CARRUSEL-->
 <div class="max-w-screen-2xl mx-auto">
 
@@ -133,7 +134,5 @@
     </div>
 </div>
 
-<?php $__env->stopSection(); ?>
+@endsection
 
-
-<?php echo $__env->make('layout', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\xampp\htdocs\SitApp\resources\views/index.blade.php ENDPATH**/ ?>
