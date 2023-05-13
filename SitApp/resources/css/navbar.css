@@ -2,7 +2,7 @@
 /* Estilos generales de la navbar */
 .navbar {
     background-color: #EB455F;
-    height: 100px;
+    height: 70px;
     width: 100%;
     position: fixed;
     top: 0;
@@ -18,16 +18,6 @@
     align-items: center;
     height: 100%;
     padding: 0 20px;
-  }
-
-  .logo {
-    width: 100px;
-
-  }
-
-  .logo img{
-    width: 110%;
-    height: 120px;
   }
 
   .navbar-links {

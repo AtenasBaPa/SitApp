@@ -21,11 +21,6 @@ Route::get('/vistabernal', function(){
     return view('vistabernal');
 })->name('vistabernal');
 
-<<<<<<< Updated upstream
-Route::get('/nueva', function(){
-    return view('nueva');
-})->name('nueva');
-=======
 Route::get('/infracciones', function(){
     return view('infracciones');
 })->name('infracciones');
@@ -65,4 +60,3 @@ Route::get('/terminosycondiciones', function(){
 Route::get('/mision_vision', function(){
     return view('mision_vision');
 })->name('mision_vision');
->>>>>>> Stashed changes
