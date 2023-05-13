@@ -39,6 +39,7 @@
         <div class="col-start-1 col-end-2 row-start-4  pl-8">Telefono: 222 222 2222</div>
         <div class="col-start-1 col-end-2 row-start-5  pl-8">Correo Electronico: sitapp@puebla.com</div>
         <div class="col-start-1 col-end-2 row-start-6  pl-8">Oficinas Centrales: 18 Sur y Circunvalacion</div>
+<<<<<<< Updated upstream
 
         <div class="col-start-4 col-end-5">
             <section class="grid-cols-3 grid-rows-2 grid flex-row">
@@ -50,6 +51,8 @@
 
         </div>
 
+=======
+>>>>>>> Stashed changes
     </footer>
 </body>
 

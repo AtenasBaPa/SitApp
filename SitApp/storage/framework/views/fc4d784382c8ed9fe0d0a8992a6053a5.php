@@ -1,5 +1,4 @@
-@extends('layout')
-@section('content')
+<?php $__env->startSection('content'); ?>
 <!--CARRUSEL-->
 <div class="max-w-screen-2xl mx-auto">
 
@@ -49,22 +48,35 @@
 <div class="w-full h-56 mt-32 text-center">
     <p class="font-bold text-xl">“SitApp es una herramienta muy útil para los conductores de Puebla. <br>
     He estado usándolo durante los últimos 6 meses y es de gran <br> ayuda para gestionarme como conductor.”
-    <br> <p class="text-lg">- Eduardo, Conductor de Puebla.</p> </p>
+    <br> <p class="text-lg pt-6">- Eduardo, Conductor de Puebla.</p> </p>
 </div>
 
-<div class="w-full h-96 mt-20 text-center bg-[#F0F0F0]">
-    <p class="text-left my-10 pt-10 text-2xl font-bold pl-52">Acerca de nosotros</p>
-    <p class="text-center text-2xl px-64">Esto es SitApp, un sistema de gestión para conductores en la ciudad de Puebla. Estamos aquí para ayudar a los conductores <br>
-    a ahorrar tiempo e incluso dinero al gestionar sus actividades diarias al conducir. Con nuestro sistema, los conductores <br>
-    pueden controlar fácilmente su informacion, multas, tenencias, verificación vehicular y muchas cosas mas. También nos <br>
-    enorgullece ofrecer una solución de seguridad vial para los conductores y sus vehículos. Ayudamos a los conductores a <br>
-    prevenir problemas inesperados al proporcionarles un seguro de viaje adecuado. Así mismo, nuestro sistema también les <br>
-    proporciona datos de tráfico y estacionamiento en tiempo real para que puedan tomar decisiones informadas. ¡Estamos muy <br>
-    emocionados por la oportunidad.</p>
+<div class="w-full h-full mt-20 text-center bg-[#F0F0F0] text-justify ">
+    <div class="w-3/4 m-auto pb-8">
+        <h2 class="text-left py-8 pt-10 text-2xl font-bold">Acerca de nosotros</h2>
 
+        <p class="text-xl py-4">
+            En primavera de 2023, por un proyecto de la universidad con el objetivo de reducir
+            los accidentes viales, surgió la idea por un grupo de estudiantes de la licenciatura
+            de Gestión de Ciudades Inteligentes y Transiciones Tecnológicas, con el apoyo de
+            estudiantes de la facultad de Ciencias de la Computación, tratando de apoyar a cientos
+            de conductores de la ciudad de Puebla, es así como nació está aplicación web:
+        </p>
+
+        <p class="text-2xl py-4">
+            SIT app es una aplicación web que se puede utilizar desde el teléfono, computadora,
+            tablet, y otros dispositivos que tengan un navegador web, se creó para los conductores
+            de la ciudad de Puebla, con la finalidad de motivar al conductor a realizar mejor su
+            conducción y recibir recompensas por eso.
+        </p>
+
+        <p class="text-2xl py-4">
+            Además de que proporcionamos algunos documentos como la licencia, tarjeta de
+            circulación y multas digitales para facilitar su uso, mantener informado de manera
+            instantánea y facilitar pagos.
+        </p>
+    </div>
 </div>
-<<<<<<< Updated upstream
-=======
 
 <div class="h-20"></div>
 
@@ -135,6 +147,7 @@
     </div>
 </div>
 
->>>>>>> Stashed changes
-@endsection
+<?php $__env->stopSection(); ?>
 
+
+<?php echo $__env->make('layout', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\xampp\htdocs\SitApp\resources\views/index.blade.php ENDPATH**/ ?>

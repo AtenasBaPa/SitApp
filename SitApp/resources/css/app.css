@@ -4,3 +4,20 @@
 @tailwind components;
 @tailwind utilities;
 
+.alto-cont{
+    height: 600px;
+}
+
+.alto-malla{
+    height: 40px;
+    margin-top: 69px;
+}
+
+.alto-malla2{
+    height: 40px;
+    margin-top: 50px;
+}
+
+.alto-foto{
+    height: 600px;
+}
