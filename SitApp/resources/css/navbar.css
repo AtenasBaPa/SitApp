@@ -1,0 +1,94 @@
+
+/* Estilos generales de la navbar */
+.navbar {
+    background-color: #1E56A0;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .navbar-container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    padding: 0 20px;
+  }
+
+  .navbar-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    width: auto;
+  }
+
+  .navbar-links a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    padding: inherit;
+    width: max-content;
+  }
+
+  /*.login-btn {
+    background-color: #dd8b98;
+    color: red;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 100px;
+  }*/
+
+  /* Estilos responsivos
+  @media screen and (max-width: 768px) {
+    .navbar-links {
+      display: none;
+    }
+
+    .navbar-responsive {
+      display: block;
+      cursor: pointer;
+    }
+
+    .icon {
+      font-size: 28px;
+      color: white;
+    }
+
+    .logo{
+        width: 100%;
+    }
+    .logo img{
+        width: 35%;
+    }
+
+    .navbar-responsive.active + .navbar-links {
+      display: block;
+      position: absolute;
+      top: 60px;
+      left: 0;
+      width: 100%;
+      background-color: red;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      padding: 10px 20px;
+      flex-direction: column;
+      align-items: center;
+      z-index: 999;
+    }
+
+    .navbar-links a {
+      margin: 10px 0;
+    }
+  }*/
+
+*{
+    font-family: 'Josefin Sans', sans-serif;
+}
