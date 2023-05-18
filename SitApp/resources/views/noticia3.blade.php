@@ -8,8 +8,8 @@
         </div>
 
         <div class="grid grid-cols-9 grid-flow-row auto-rows-max gap-x-9">
-            <div class="col-start-1 col-span-6 row-start-1 row-span-4 border-2 w-full container-video" style="background-image:url(/img/imagen-prueba.png); background-size: 70%; background-position:center;background-repeat: no-repeat;"></div>
-            <div class="col-start-1 col-span-6 row-start-5 border-b-2 border-gray pt-4">Frase de enganche de video</div>
+            <div class="col-start-1 col-span-6 row-start-1 row-span-4 border-2 w-full container-video" style="background-image:url(/img/noticias/noticia3.png); background-size: 100%; background-position:center;background-repeat: no-repeat;"></div>
+            <div class="col-start-1 col-span-6 row-start-5 border-b-2 border-gray pt-4">Digital, M. (2020, 5 junio).  </div>
             <div class="col-start-1 col-span-6 row-start-6 text-justify text-xl">
                 <p class="py-4">
                     Los policías estatales encargados de vigilar el cumplimiento de la 
@@ -61,13 +61,13 @@
             </div>
             <div class="col-start-7 col-span-3 row-span-6">
                 <div class="grid grid-cols-1 grid-rows-6">
-                    <div class="border-2 col-start-1 row-star-1 row-span-2 tajeta-noticia" style="background-image:url(/img/imagen-prueba.png); background-size: 70%; background-position:center;background-repeat: no-repeat;"></div>
+                    <div class="border-2 col-start-1 row-star-1 row-span-2 tajeta-noticia" style="background-image:url(/img/noticias/noticia1.png); background-size: 100%; background-position:center;background-repeat: no-repeat;"></div>
                     <a href="/noticia1" class="col-start-1 row-star-2 text-xl mt-2 mb-4 transition-colors duration-500 hover:text-[#1E56A0]"><p class="">Movilidad de Puebla capital trabaja en tendido de nuevas ciclovías.</p></a>
-                    <div class="border-2 col-start-1 row-star-3 row-span-2 tajeta-noticia" style="background-image:url(/img/imagen-prueba.png); background-size: 70%; background-position:center;background-repeat: no-repeat;"></div>
+                    <div class="border-2 col-start-1 row-star-3 row-span-2 tajeta-noticia" style="background-image:url(/img/noticias/noticia2.png); background-size: 100%; background-position:center;background-repeat: no-repeat;"></div>
                     <a href="/noticia2" class="col-start-1 row-star-4 text-xl mt-2 mb-4 transition-colors duration-500 hover:text-[#1E56A0]"><p class="">Amplían plazo para verificación del transporte, solo en algunos casos</p></a>
-                    <div class="border-2 col-start-1 row-star-5 row-span-2 tajeta-noticia" style="background-image:url(/img/imagen-prueba.png); background-size: 70%; background-position:center;background-repeat: no-repeat;"></div>
+                    <div class="border-2 col-start-1 row-star-5 row-span-2 tajeta-noticia" style="background-image:url(/img/noticias/noticia4.png); background-size: 100%; background-position:center;background-repeat: no-repeat;"></div>
                     <a href="/noticia4" class="col-start-1 row-star-6 text-xl mt-4 mb-4 transition-colors duration-500 hover:text-[#1E56A0]"><p class="">Puebla tendrá Sistema Estatal de Movilidad y Seguridad Vial.</p></a>
-                    <div class="border-2 col-start-1 row-star-7 row-span-2 tajeta-noticia" style="background-image:url(/img/imagen-prueba.png); background-size: 70%; background-position:center;background-repeat: no-repeat;"></div>
+                    <div class="border-2 col-start-1 row-star-7 row-span-2 tajeta-noticia" style="background-image:url(/img/noticias/noticia5.png); background-size: 100%; background-position:center;background-repeat: no-repeat;"></div>
                     <a href="/noticia5" class="col-start-1 row-star-8 text-xl mt-4 mb-4 transition-colors duration-500 hover:text-[#1E56A0]"><p class="">Instalarán alrededor de 40 pasos peatonales en las principales calles de Puebla.</p></a>
                 </div>
             </div>

@@ -8,7 +8,7 @@
                 Asistencia
             </p>
             <div class="col-start-2 row-start-1 bg-[#D6E4F0] mx-auto rounded-3xl w-52 h-52 hover:bg-[#F6F6F6] transition-all duration-200" style="display:flex">
-                <a href="#" class="m-auto"><img class="w-56 text-center m-auto" src="/img/documento.png" style="text-align:center; width: 80%;margin:auto"></a>
+                <a href="/docs" class="m-auto"><img class="w-56 text-center m-auto" src="/img/documento.png" style="text-align:center; width: 80%;margin:auto"></a>
             </div>
             <p class="col-start-2 row-start-2 text-center text-2xl alto-malla font-bold">
                 Documentación
@@ -26,7 +26,7 @@
                 Infracciones
             </p>
             <div class="col-start-1 row-start-3 bg-[#D6E4F0] mx-auto rounded-3xl w-52 h-52 -mt-5 hover:bg-[#F6F6F6] transition-all duration-200" style="display:flex">
-                <a href="/licencia" class="m-auto"><img class="w-56 text-center m-auto" src="/img/licencia.png" style="text-align:center; width: 80%;margin:auto"></a>
+                <a href="/licenciaDigital" class="m-auto"><img class="w-56 text-center m-auto" src="/img/licencia.png" style="text-align:center; width: 80%;margin:auto"></a>
             </div>
             <p class="col-start-1 row-start-4 text-center text-2xl font-bold alto-malla2">
                 Licencia Digital

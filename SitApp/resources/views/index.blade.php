@@ -52,32 +52,6 @@
     <br> <p class="text-lg pt-6">- Eduardo, Conductor de Puebla.</p> </p>
 </div>
 
-<div class="w-full h-full mt-20 text-center bg-[#F0F0F0] text-justify ">
-    <div class="w-3/4 m-auto pb-8">
-        <h2 class="text-left py-8 pt-10 text-3xl font-bold text-[#1E56A0]">Acerca de nosotros</h2>
-
-        <p class="text-2xl py-4">
-            En primavera de 2023, por un proyecto de la universidad con el objetivo de reducir
-            los accidentes viales, surgió la idea por un grupo de estudiantes de la licenciatura
-            de Gestión de Ciudades Inteligentes y Transiciones Tecnológicas, con el apoyo de
-            estudiantes de la facultad de Ciencias de la Computación, tratando de apoyar a cientos
-            de conductores de la ciudad de Puebla, es así como nació está aplicación web:
-        </p>
-
-        <p class="text-2xl py-4">
-            SIT app es una aplicación web que se puede utilizar desde el teléfono, computadora,
-            tablet, y otros dispositivos que tengan un navegador web, se creó para los conductores
-            de la ciudad de Puebla, con la finalidad de motivar al conductor a realizar mejor su
-            conducción y recibir recompensas por eso.
-        </p>
-
-        <p class="text-2xl py-4">
-            Además de que proporcionamos algunos documentos como la licencia, tarjeta de
-            circulación y multas digitales para facilitar su uso, mantener informado de manera
-            instantánea y facilitar pagos.
-        </p>
-    </div>
-</div>
 
 <div class="h-20"></div>
 
@@ -99,14 +73,59 @@
                 Las recompensas se pueden obtener de varias maneras, las cuales podrá
                 ver a continuación:
             </p>
-            <div>
+            <div class="pt-6">
                 <ul class="list-image-[url(img/verificado1.png)] list-outside pb-10 ml-8">
-                    <li>Pagar cada año a tiempo su tenencia.</li>
-                    <li>Hacer la verificación de su vehiculo cada año.</li>
-                    <li>Haber pagado con sus multas a tiempo o antes de tiempo.</li>
-                    <li>Haber pagado todas sus foto-multas</li>
-                    <li>No haber tenido alguna falta vial durante cada mes.</li>
-                    <li>Visitar la pagina para obtener puntos cada dia.</li>
+                    <li class="text-[#1E56A0] text-2xl">Pagar a tiempo la tenencia su tenencia:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Deberá realizar el pago de su tenencia vehicular en tiempo y forma para generar los puntos de recompensa.</li>
+                        </ul>
+                    </li>
+
+                    <li class="text-[#1E56A0] text-2xl">Realice su verificación a tiempo:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Realizar la verificación de su vehículo de manera anticipada, generará más puntos de recompensa.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Utilizar vehículos eléctricos o híbridos:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Utilizar vehículos híbridos o eléctricos, generarán puntos de recompensas anualmente al estar exentos de verificación.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Pagar sus multas obtenidas durante el mes:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      El realizar el pago de sus multas lo más pronto posible a la fecha de expedición, generará más puntos de recompensa.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Pagar su foto multas obtenidas durante el mes:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      El realizar el pago de su foto multas lo más pronto posible a la fecha de expedición, generará más puntos de recompensa.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Visitar la página diariamente:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      El visitar la página diariamente generará puntos de recompensa.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Suscribirse a las notificaciones por correo o SMS:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Suscribirse a las notificaciones, generará puntos de recompensa de manera periódica.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Mantener el vehículo en buen estado:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      El traer su vehículo en buenas condiciones durante revisiones, generará puntos de recompensa.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Reportar incidentes de tránsito:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Informar sobre incidentes de tráfico o problemas en la vía puede contribuir a generar puntos de recompensa.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Respetar los límites de velocidad:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Cada foto multa respetada, acumulará puntos de recompensa.</li>
+                        </ul>
+                    </li>
                 </ul>
 
                 <p class="text-4xl font-bold text-center py-10 text-[#1E56A0]">Recompensas</p>
