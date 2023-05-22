@@ -2,7 +2,7 @@
 @section('content')
 
 <div class="w-full">
-    <h1 class="text-4xl text-center font-bold py-8">TERMINOS Y CONDICIONES </h1>
+    <h1 class="text-4xl text-center font-bold py-8">TÉRMINOS Y CONDICIONES </h1>
     <div class="w-3/5 m-auto text-justify py-8">
         <h2 class="text-2xl py-6">1. Introducción</h2>
         <div class="pb-4">
@@ -171,4 +171,18 @@
     </div>
 </div>
 
+<!--División de botón de regreso-->
+<div class="h-28"></div>
+    <div class="w-3/4 mx-auto">
+        <!--botón de regreso-->
+        <div class="button p-1 w-28 mb-10 bg-[#EB455F] rounded-lg text-center text-white transition ease-in-out delay-150  hover:-translate-1 hover:scale-105 hover:bg-[#D61C4E] duration-100">
+            <a href="/">
+                <div class="font-medium w-auto m-auto font-just text-xl">
+                    <span class="py-4">
+                        regresar
+                    </span>
+                </div>
+            </a>
+        </div>
+    </div>
 @endsection

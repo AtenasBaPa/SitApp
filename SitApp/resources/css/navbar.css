@@ -1,7 +1,7 @@
 
 /* Estilos generales de la navbar */
 .navbar {
-    background-color: #EB455F;
+    background-color: #1E56A0;
     height: 70px;
     width: 100%;
     position: fixed;
@@ -29,7 +29,6 @@
   }
 
   .navbar-links a {
-    color: white;
     text-decoration: none;
     margin-right: 20px;
     padding: inherit;

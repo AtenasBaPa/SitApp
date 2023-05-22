@@ -52,82 +52,115 @@
     <br> <p class="text-lg pt-6">- Eduardo, Conductor de Puebla.</p> </p>
 </div>
 
-<div class="w-full h-full mt-20 text-center bg-[#F0F0F0] text-justify ">
-    <div class="w-3/4 m-auto pb-8">
-        <h2 class="text-left py-8 pt-10 text-2xl font-bold">Acerca de nosotros</h2>
-
-        <p class="text-xl py-4">
-            En primavera de 2023, por un proyecto de la universidad con el objetivo de reducir
-            los accidentes viales, surgió la idea por un grupo de estudiantes de la licenciatura
-            de Gestión de Ciudades Inteligentes y Transiciones Tecnológicas, con el apoyo de
-            estudiantes de la facultad de Ciencias de la Computación, tratando de apoyar a cientos
-            de conductores de la ciudad de Puebla, es así como nació está aplicación web:
-        </p>
-
-        <p class="text-2xl py-4">
-            SIT app es una aplicación web que se puede utilizar desde el teléfono, computadora,
-            tablet, y otros dispositivos que tengan un navegador web, se creó para los conductores
-            de la ciudad de Puebla, con la finalidad de motivar al conductor a realizar mejor su
-            conducción y recibir recompensas por eso.
-        </p>
-
-        <p class="text-2xl py-4">
-            Además de que proporcionamos algunos documentos como la licencia, tarjeta de
-            circulación y multas digitales para facilitar su uso, mantener informado de manera
-            instantánea y facilitar pagos.
-        </p>
-    </div>
-</div>
 
 <div class="h-20"></div>
 
 <div class=" w-3/5 py-10 m-auto">
-    <h2 class="text-center text-3xl font-semibold pb-8">Recompensas SITTAPP</h2>
+    <h2 class="text-center text-4xl font-bold pb-8 text-[#1E56A0]">Recompensas SITTAPP</h2>
 
     <div class="">
         <div class="text-lg">
-            <h3 class="text-2xl py-6">¿Que son las recompensas SittApp?</h3>
+            <h3 class="text-2xl py-6 text-[#1E56A0]">¿Que son las recompensas SittApp?</h3>
             <p>
-                Las recompensas SittApp son premios o incentivos que se les concede a los
-                conductores de nacionalidad mexicana que reciden en México, los cuales
-                al estar registrador en el sistema de vialidad nacional mexicana son
-                candidatos a poder participar por una o varias recompensas que van desde
-                descuentos en gasolineras PEMEX hasta deuda de multas liquidadas.
+                Las recompensas en SIT App son incentivos o estímulos que se conceden
+                a los usuarios registrados en el sistema para motivarlos a practicar
+                una buena conducción. Estos incentivos serán otorgados en un periodo
+                de tiempo de 30 días, y con ellos podrán obtener diversos beneficios
+                tanto personales como para su unidad de transporte.
             </p>
-            <h4 class="pt-6 pb-4 text-2xl">¿Como consigo estas recompensas?</h4>
+            <h4 class="pt-6 pb-4 text-2xl text-[#1E56A0]">¿Como consigo estas recompensas?</h4>
             <p class="pt-2 pb-6">
                 Las recompensas se pueden obtener de varias maneras, las cuales podrá
                 ver a continuación:
             </p>
-            <div>
+            <div class="pt-6">
                 <ul class="list-image-[url(img/verificado1.png)] list-outside pb-10 ml-8">
-                    <li>Pagar cada año a tiempo su tenencia.</li>
-                    <li>Hacer la verificación de su vehiculo cada año.</li>
-                    <li>Haber pagado con sus multas a tiempo o antes de tiempo.</li>
-                    <li>Haber pagado todas sus foto-multas</li>
-                    <li>No haber tenido alguna falta vial durante cada mes.</li>
-                    <li>Visitar la pagina para obtener puntos cada dia.</li>
+                    <li class="text-[#1E56A0] text-2xl">Pagar a tiempo la tenencia su tenencia:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Deberá realizar el pago de su tenencia vehicular en tiempo y forma para generar los puntos de recompensa.</li>
+                        </ul>
+                    </li>
+
+                    <li class="text-[#1E56A0] text-2xl">Realice su verificación a tiempo:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Realizar la verificación de su vehículo de manera anticipada, generará más puntos de recompensa.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Utilizar vehículos eléctricos o híbridos:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Utilizar vehículos híbridos o eléctricos, generarán puntos de recompensas anualmente al estar exentos de verificación.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Pagar sus multas obtenidas durante el mes:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      El realizar el pago de sus multas lo más pronto posible a la fecha de expedición, generará más puntos de recompensa.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Pagar su foto multas obtenidas durante el mes:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      El realizar el pago de su foto multas lo más pronto posible a la fecha de expedición, generará más puntos de recompensa.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Visitar la página diariamente:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      El visitar la página diariamente generará puntos de recompensa.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Suscribirse a las notificaciones por correo o SMS:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Suscribirse a las notificaciones, generará puntos de recompensa de manera periódica.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Mantener el vehículo en buen estado:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      El traer su vehículo en buenas condiciones durante revisiones, generará puntos de recompensa.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Reportar incidentes de tránsito:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Informar sobre incidentes de tráfico o problemas en la vía puede contribuir a generar puntos de recompensa.</li>
+                        </ul>
+                    </li>
+                    <li class="text-[#1E56A0] text-2xl">Respetar los límites de velocidad:
+                        <ul>
+                            <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Cada foto multa respetada, acumulará puntos de recompensa.</li>
+                        </ul>
+                    </li>
                 </ul>
 
-                <p class="text-2xl font-semibold text-center py-10">Recompensas</p>
+                <p class="text-4xl font-bold text-center py-10 text-[#1E56A0]">Recompensas</p>
             </div>
         </div>
 
-        <div class="grid grid-cols-2 grid-rows-2 gap-5 justify-items-center">
-            <div class="col-start-1 row-start-1 h-60 w-60 rounded-3xl bg-[#86C4EA]">
-                <div>tarjeta 1</div>
+        <div class="grid grid-cols-2 grid-rows-2 gap-9 justify-items-center pb-10">
+            <div class="col-start-1 row-start-1 h-52 w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
+                <div class="w-full pl-8 m-8 text-5xl text-[#1E56A0]">25% off</div>
+                <div class="w-10/12 m-6 text-xl font-semibold"><p>En la renovación de la licencia de conducir (600 puntos).</p></div>
             </div>
 
-            <div class="col-start-2 row-start-1 h-60 w-60 rounded-3xl bg-[#86C4EA]">
-                <div>tarjeta 2</div>
+            <div class="col-start-2 row-start-1 h-52 w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
+                <div class="w-full pl-8 m-8 text-5xl text-[#1E56A0]">50% off</div>
+                <div class="w-10/12 m-6 text-xl font-semibold"><p>En estacionamiento centro comercial Angelópolis <br> (150 puntos).</p></div>
             </div>
 
-            <div class="col-start-1 row-start-2 h-60 w-60 rounded-3xl bg-[#86C4EA]">
-                <div>tarjeta 3</div>
+            <div class="col-start-1 row-start-2 h-52 w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
+                <div class="w-full pl-8 m-8 text-5xl text-[#1E56A0]">30% off</div>
+                <div class="w-10/12 m-6 text-xl font-semibold"><p>En cualquier caseta del país <br> (450 puntos).</p></div>
             </div>
 
-            <div class="col-start-2 row-start-2 h-60 w-60 rounded-3xl bg-[#86C4EA]">
-                <div>tarjeta 4</div>
+            <div class="col-start-2 row-start-2 h-52 w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
+                <div class="w-full pl-8 m-8 text-5xl text-[#1E56A0]">40% off</div>
+                <div class="w-10/12 m-6 text-xl font-semibold"><p>En próximo viaje de Uber <br> (200 puntos).</p></div>
+            </div>
+
+            <div class="col-start-1 row-start-3 h-52 w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
+                <div class="w-full pl-8 m-8 text-5xl text-[#1E56A0]">2 x 1</div>
+                <div class="w-10/12 m-6 text-xl font-semibold"><p>Boletos Cinépolis (250 puntos). </p></div>
+            </div>
+
+            <div class="col-start-2 row-start-3 h-52 w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
+                <div class="w-full pl-8 m-8 text-5xl text-[#1E56A0]">20% off</div>
+                <div class="w-10/12 m-6 text-lg font-semibold"><p>En servicios de mantenimiento de vehículos “cambio de aceite o ajuste	 de frenos” (1000 puntos).</p></div>
             </div>
         </div>
 
