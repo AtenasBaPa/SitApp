@@ -33,6 +33,7 @@
 
 
     <footer class="font-jose absolute bottom-0 w-screen bg-[#2B3467] h-72 grid grid-cols-4 grid-rows-6 gap-1 text-white">
+<<<<<<< Updated upstream
         <div class="col-start-1 col-end-2 row-start-1  pl-8 pt-6 ">SITAPP</div>
         <div class="col-start-1 col-end-2 row-start-2  pl-8 py-4 ">Atencion Ciudadana</div>
         <div class="col-start-1 col-end-2 row-start-3  pl-8 pt-2">Direccion: San Claudio y 14 Sur</div>
@@ -50,6 +51,14 @@
 
         </div>
 
+=======
+        <a href="/" class="col-start-1 col-end-2 w-auto"><div class="w-100 h-28 pr-40 -mt-4 ml-8" style="background-image:url(/img/logos/11.png); background-size: 45%; background-position:left;background-repeat: no-repeat;"></div></a>
+        <a href="/terminosycondiciones" class="col-start-1 col-end-2 row-start-2  pl-8 py-4 "><u>Términos y condiciones</u></a>
+        <div class="col-start-1 col-end-2 row-start-3  pl-8 pt-2">Dirección: San Claudio y 14 Sur</div>
+        <div class="col-start-1 col-end-2 row-start-4  pl-8">Teléfono: 222 222 2222</div>
+        <div class="col-start-1 col-end-2 row-start-5  pl-8">Correo Electrónico: sitapp@puebla.com</div>
+        <div class="col-start-1 col-end-2 row-start-6  pl-8">Oficinas Centrales: 18 Sur y Circunvalación</div>
+>>>>>>> Stashed changes
     </footer>
 </body>
 
