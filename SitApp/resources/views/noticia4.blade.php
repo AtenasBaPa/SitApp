@@ -12,31 +12,31 @@
             <div class="col-start-1 col-span-6 row-start-5 border-b-2 border-gray pt-4">Vázquez, L., & Vázquez, L. (2021, 25 septiembre).</div>
             <div class="col-start-1 col-span-6 row-start-6 text-justify text-xl">
                 <p class="py-4">
-                    Tras anunciar que Puebla será sede del Encuentro Nacional de Diputadas
+                    Tras anunciar que Puebla será sede del Encuentro Nacional de Diputadas
                     y Diputados Locales por la Movilidad (ENDIMOV) el 6 y 7 de octubre en
-                    el Centro Expositor, la secretaria de Movilidad y Transporte, Elsa
-                    Bracamonte, anunció que se creará el Sistema Estatal de Movilidad y Transporte.
+                    el Centro Expositor, la secretaria de Movilidad y Transporte, Elsa
+                    Bracamonte, anunció que se creará el Sistema Estatal de Movilidad y Transporte.
                 </p>
                 <p class="py-4">
                     En conferencia de prensa la funcionaria estatal, dijo que a partir
-                    del 11 de octubre entra en funciones el Sistema Nacional, y en la
-                    armonización de la ley se tendrá que crear uno a nivel local para
+                    del 11 de octubre entra en funciones el Sistema Nacional, y en la
+                    armonización de la ley se tendrá que crear uno a nivel local para
                     que se dé la coordinación interestatal.
                 </p>
                 <p class="py-4">
-                    Elsa Bracamonte dejó en claro que, si hay un incumplimiento de las
+                    Elsa Bracamonte dejó en claro que, si hay un incumplimiento de las
                     normas de tránsito por parte de un operador del transporte público,
-                    y causó daño a los usuarios, se retira la concesión y se inicia un
+                    y causó daño a los usuarios, se retira la concesión y se inicia un
                     proceso.
                 </p>
                 <p class="py-4">
-                    Al ser cuestionada, de cuántas concesiones se han retirado, evitó
+                    Al ser cuestionada, de cuántas concesiones se han retirado, evitó
                     dar una cifra, no obstante, reconoció que se han quitado concesiones
-                    completas o solo por unidades, sin conocer el número exacto de ellas.
+                    completas o solo por unidades, sin conocer el número exacto de ellas.
                 </p>
                 <p class="py-4">
-                    De igual manera indicó que tampoco contaba con los datos de cuantas
-                    concesiones han sido retiradas por la dependencia que encabeza, toda
+                    De igual manera indicó que tampoco contaba con los datos de cuantas
+                    concesiones han sido retiradas por la dependencia que encabeza, toda
                     vez que existen varios casos que se encuentran bajo procedimiento.
                 </p>
 

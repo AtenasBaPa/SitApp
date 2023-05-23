@@ -31,11 +31,11 @@
         </button>
 <!-- Boton para poder registrar una nueva cuenta -->
         <a class="col-start-1 col-span-4 row-start-4 login-link text-center mx-auto" href="/register">
-            <span>¿No tienes una cuenta?</span> <span class="transition-colors duration-500 hover:text-[#1E56A0]"> Registrate</span>
+            <span>¿No tienes una cuenta?</span> <span class="transition-colors duration-500 hover:text-[#1E56A0]"> Regístrate</span>
         </a>
 <!-- Boton para volver a pagina principal -->
         <a class="col-start-1 col-span-4 row-start-5 w-fit m-auto login-return transition-colors duration-500 hover:text-[#1E56A0]" href="/">
-            volver
+            Volver
         </a>
     </div>
 </form>

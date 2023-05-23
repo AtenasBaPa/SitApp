@@ -12,38 +12,38 @@
             <div class="col-start-1 col-span-6 row-start-5 border-b-2 border-gray pt-4">Digital, M. (2020, 5 junio).  </div>
             <div class="col-start-1 col-span-6 row-start-6 text-justify text-xl">
                 <p class="py-4">
-                    Los policías estatales encargados de vigilar el cumplimiento de la 
-                    verificación vehicular en Puebla tendrán cámaras conectadas directamente
-                    al C5 de la Secretaría de Seguridad Pública (SSP) del estado, con el
+                    Los policías estatales encargados de vigilar el cumplimiento de la
+                    verificación vehicular en Puebla tendrán cámaras conectadas directamente
+                    al C5 de la Secretaría de Seguridad Pública (SSP) del estado, con el
                     objetivo de evitar irregularidades, informó el titular de la
-                    dependencia, Iván Cruz Luna.
+                    dependencia, Iván Cruz Luna.
                 </p>
                 <p class="py-4">
-                    Confirmó que, hasta el momento, hay 57 uniformados capacitados
+                    Confirmó que, hasta el momento, hay 57 uniformados capacitados
                     para participar en los operativos, aunque en la siguiente semana
                     un número similar comenzará su preparación para sumarse a las
                     revisiones.
                 </p>
                 <p class="py-4">
                     Agregó que a lo largo del año se integrarán más oficiales que
-                    estarán a cargo de vigilar el cumplimiento del Programa de
+                    estarán a cargo de vigilar el cumplimiento del Programa de
                     Verificación Vehicular.
                 </p>
                 <p class="py-4">
-                    Cruz Luna explicó que los policías portarán un chaleco verde
-                    oscuro con la leyenda “Seguridad y Proximidad en Caminos”. 
-                    Además, cargarán con cámaras corporales que trasmitirán en
-                    directo al C5.
+                    Cruz Luna explicó que los policías portarán un chaleco verde
+                    oscuro con la leyenda “Seguridad y Proximidad en Caminos”.
+                    Además, cargarán con cámaras corporales que trasmitirán en
+                    directo al C5.
                 </p>
                 <p class="py-4">
                     Indicó que, a través de ellas, los mandos podrán escuchar y
                     ver todo lo que ocurra durante los operativos de inspección.
                 </p>
                 <p>
-                    A partir del 1 de enero de este año, la verificación vehicular
+                    A partir del 1 de enero de este año, la verificación vehicular
                     es obligatoria para todos los automotores particulares del
-                    estado de Puebla, mientras que las unidades del transporte
-                    público tuvieron que haber cumplido con el requisito en las
+                    estado de Puebla, mientras que las unidades del transporte
+                    público tuvieron que haber cumplido con el requisito en las
                     últimas 10 semanas de 2022.
                 </p>
                 <p class="py-4">

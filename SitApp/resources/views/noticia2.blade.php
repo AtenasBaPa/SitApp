@@ -12,20 +12,20 @@
             <div class="col-start-1 col-span-6 row-start-5 border-b-2 border-gray pt-4">Del Razo, R. (2023, 2 enero).</div>
             <div class="col-start-1 col-span-6 row-start-6 text-justify text-xl">
                 <p class="py-4">
-                    El Gobierno de Puebla amplió un semestre el plazo para que el transporte
-                    público cumpla con la verificación vehicular, aunque solamente en los
-                    municipios donde no existan verificentros, dio a conocer el titular del
-                    Poder Ejecutivo, Sergio Salomón Céspedes Peregrina.
+                    El Gobierno de Puebla amplió un semestre el plazo para que el transporte
+                    público cumpla con la verificación vehicular, aunque solamente en los
+                    municipios donde no existan verificentros, dio a conocer el titular del
+                    Poder Ejecutivo, Sergio Salomón Céspedes Peregrina.
                 </p>
                 <p class="py-4">
                     Las unidades que estén registradas en la capital, San Andrés Cholula,
-                    Huejotzingo, San Martín Texmelucan, Atlixco y Tehuacán, donde sí hay 
-                    16 centros de verificación, deberán cumplir con la medida, dijo Beatriz
+                    Huejotzingo, San Martín Texmelucan, Atlixco y Tehuacán, donde sí hay
+                    16 centros de verificación, deberán cumplir con la medida, dijo Beatriz
                     Manrique Guevara, titular de la Secretaría de Medio Ambiente, Desarrollo
                     Sustentable y Ordenamiento Territorial (SMADSOT).
                 </p>
                 <p class="py-4">
-                    Solamente el 10 por ciento de los 36 mil automotores concesionados han
+                    Solamente el 10 por ciento de los 36 mil automotores concesionados han
                     respondido a su obligación, entre ellos todos los pertenecientes a las
                     líneas 3 y 2 de la Red Urbana de Transporte Articulado (RUTA), y parte
                     de la Línea 1.
@@ -34,9 +34,9 @@
                     Sanciones
                 </p>
                 <p class="py-4">
-                    Elsa María Bracamonte González, secretaria de Movilidad y Transporte,
-                    afirmó que durante 15 días no se retirará de la circulación a los 
-                    transportistas que hayan incumplido con la verificación en las seis
+                    Elsa María Bracamonte González, secretaria de Movilidad y Transporte,
+                    afirmó que durante 15 días no se retirará de la circulación a los
+                    transportistas que hayan incumplido con la verificación en las seis
                     demarcaciones con verificentros, por lo que los llamó a realizarla.
                 </p>
                 <p>
@@ -45,7 +45,7 @@
                     de manera evidente.
                 </p>
                 <p class="py-4">
-                    Descartó que esta última medida afecte a los usuarios del transporte
+                    Descartó que esta última medida afecte a los usuarios del transporte
                     público, ya que existe capacidad de las autoridades para suplir los
                     vehículos retirados.
                 </p>
@@ -57,7 +57,7 @@
                 </p>
                 <p class="py-4">
                     También llamó a los concesionarios a cambiar los automotores con más
-                    de 10 años de antigüedad, como lo marca la ley, además de advertir que
+                    de 10 años de antigüedad, como lo marca la ley, además de advertir que
                     la verificación será uno de los cinco documentos que se pedirán en la
                     revista vehicular de este año.
                 </p>
@@ -65,7 +65,7 @@
                     Operativos
                 </p>
                 <p class="py-4">
-                    El gobernador, Sergio Salomón Céspedes Peregrina, dio a conocer que
+                    El gobernador, Sergio Salomón Céspedes Peregrina, dio a conocer que
                     la Secretaría de la Función Pública (SFP) estará presente en los
                     operativos para detectar vehículos que no hayan cumplido con la
                     verificación en Puebla, con la finalidad de que estén apegados a
@@ -73,11 +73,11 @@
                 </p>
                 <p class="py-4">
                     También participarán elementos de Seguridad Pública, de Movilidad
-                    y Transporte, además de la SMADSOT, explicó en conferencia de prensa.
+                    y Transporte, además de la SMADSOT, explicó en conferencia de prensa.
                 </p>
                 <p class="py-4">
                     Recordó que las reglas se hicieron para cumplirlas y que no se
-                    permitirá ningún “arreglo en lo oscuro”, en las revisiones de 
+                    permitirá ningún “arreglo en lo oscuro”, en las revisiones de
                     gases contaminantes.
                 </p>
             </div>

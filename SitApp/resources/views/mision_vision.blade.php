@@ -19,7 +19,7 @@
                 beneficiados por su buena conducta al conducir, mediante un apartado de puntos
                 y recompensas. Logrando que las personas se sientan motivadas a seguir este
                 comportamiento, ayudando a reducir accidentes viales y creando más consciencia
-                a la comunidad sobre la vialidad
+                a la comunidad sobre la vialidad.
             </p>
         </div>
 
@@ -33,12 +33,13 @@
                     En primavera de 2023, por un proyecto de la universidad con el objetivo de reducir
                     los accidentes viales, surgió la idea por un grupo de estudiantes de la licenciatura
                     de Gestión de Ciudades Inteligentes y Transiciones Tecnológicas, con el apoyo de
-                    estudiantes de la facultad de Ciencias de la Computación, tratando de apoyar a cientos
-                    de conductores de la ciudad de Puebla, es así como nació está aplicación web:
+                    estudiantes de la carrera de Ingenieria en Tecnologias de la Información de la
+                    facultad de Ciencias de la Computación, tratando de apoyar a cientos de
+                    conductores de la ciudad de Puebla, es así como nació está aplicación web:
                 </p>
 
                 <p class="text-2xl py-4">
-                    SIT app es una aplicación web que se puede utilizar desde el teléfono, computadora,
+                    SITTAPP es una aplicación web que se puede utilizar desde el teléfono, computadora,
                     tablet, y otros dispositivos que tengan un navegador web, se creó para los conductores
                     de la ciudad de Puebla, con la finalidad de motivar al conductor a realizar mejor su
                     conducción y recibir recompensas por eso.

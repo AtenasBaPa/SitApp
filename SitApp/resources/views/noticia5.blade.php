@@ -12,33 +12,33 @@
             <div class="col-start-1 col-span-6 row-start-5 border-b-2 border-gray pt-4">Puntual, D. (2023, 26 marzo). </div>
             <div class="col-start-1 col-span-6 row-start-6 text-justify text-xl">
                 <p class="py-4">
-                    Alrededor de 40 pasos peatonales serán instalados en las principales calles de
-                    la capital poblana, mientras que otros tendrán adecuaciones, como es el caso
-                    de los que se ubican en la zona de la CAPU y La Noria, así lo indicó el
-                    secretario de Infraestructura, Edgar Vélez Tirado.
+                    Alrededor de 40 pasos peatonales serán instalados en las principales calles de
+                    la capital poblana, mientras que otros tendrán adecuaciones, como es el caso
+                    de los que se ubican en la zona de la CAPU y La Noria, así lo indicó el
+                    secretario de Infraestructura, Edgar Vélez Tirado.
                 </p>
                 <p class="py-4">
-                    El funcionario compartió ante los medios de comunicación que debido a lo que
-                    marca Norma Técnica de Movilidad, es la eliminación de puentes peatonales y
-                    sean sustituidos por pasos peatonales, proyecto que mantiene en pie el 
+                    El funcionario compartió ante los medios de comunicación que debido a lo que
+                    marca Norma Técnica de Movilidad, es la eliminación de puentes peatonales y
+                    sean sustituidos por pasos peatonales, proyecto que mantiene en pie el
                     Ayuntamiento de Puebla.
                 </p>
                 <p class="py-4">
-                    Debido a que el retiro de los puentes peatonales representa una alta 
-                    inversión, es que, la dependencia que dirige el funcionario está a la
-                    espera de que el ayuntamiento termine de evaluar el tema, ya que se
-                    requiere hacer una intervención integral.
+                    Debido a que el retiro de los puentes peatonales representa una alta
+                    inversión, es que, la dependencia que dirige el funcionario está a la
+                    espera de que el ayuntamiento termine de evaluar el tema, ya que se
+                    requiere hacer una intervención integral.
                 </p>
                 <p class="py-4">
-                    Precisó que se tienen previstos aproximadamente 40 pasos peatonales,
-                    en los que además se harán algunas adecuaciones geométricas en algunos
-                    cruceros, proyecto en el que también prevén mantener diálogo con el
-                    nuevo secretario de Movilidad y Tránsito del Estado.
+                    Precisó que se tienen previstos aproximadamente 40 pasos peatonales,
+                    en los que además se harán algunas adecuaciones geométricas en algunos
+                    cruceros, proyecto en el que también prevén mantener diálogo con el
+                    nuevo secretario de Movilidad y Tránsito del Estado.
                 </p>
                 <p class="py-4">
-                    Explicó que en el caso de la zona de la CAPU se haría una restitución
-                    del paso peatonal, en la Zona de la Noria también se harán ajustes, en
-                    tanto que en CU también se hará restitución para mejorar el paso
+                    Explicó que en el caso de la zona de la CAPU se haría una restitución
+                    del paso peatonal, en la Zona de la Noria también se harán ajustes, en
+                    tanto que en CU también se hará restitución para mejorar el paso
                     seguro de peatones.
                 </p>
 

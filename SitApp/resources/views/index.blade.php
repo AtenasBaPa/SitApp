@@ -46,10 +46,12 @@
 </div>
 
 <!--CONTENIDO DE INFORMACIÓN-->
-<div class="w-full h-56 mt-32 text-center">
-    <p class="font-bold text-xl">“SitApp es una herramienta muy útil para los conductores de Puebla. <br>
-    He estado usándolo durante los últimos 6 meses y es de gran <br> ayuda para gestionarme como conductor.”
-    <br> <p class="text-lg pt-6">- Eduardo, Conductor de Puebla.</p> </p>
+<div class="w-2/6 mx-auto h-56 mt-32 text-center">
+    <p class="font-bold text-xl">
+        “SitApp es una herramienta muy útil para los conductores de Puebla.
+        He estado usándola durante los últimos 6 meses y es de gran ayuda para mejorar mi
+        comportamiento como conductor.”
+    <p class="text-lg pt-6">- Abraham, Conductor de Puebla.</p> </p>
 </div>
 
 
@@ -60,22 +62,22 @@
 
     <div class="">
         <div class="text-lg">
-            <h3 class="text-2xl py-6 text-[#1E56A0]">¿Que son las recompensas SittApp?</h3>
+            <h3 class="text-2xl py-6 text-[#1E56A0]">¿Qué son las recompensas SittApp?</h3>
             <p>
-                Las recompensas en SIT App son incentivos o estímulos que se conceden
+                Las recompensas en SITTAPP son incentivos o estímulos que se conceden
                 a los usuarios registrados en el sistema para motivarlos a practicar
                 una buena conducción. Estos incentivos serán otorgados en un periodo
                 de tiempo de 30 días, y con ellos podrán obtener diversos beneficios
                 tanto personales como para su unidad de transporte.
             </p>
-            <h4 class="pt-6 pb-4 text-2xl text-[#1E56A0]">¿Como consigo estas recompensas?</h4>
+            <h4 class="pt-6 pb-4 text-2xl text-[#1E56A0]">¿Cómo consigo estas recompensas?</h4>
             <p class="pt-2 pb-6">
-                Las recompensas se pueden obtener de varias maneras, las cuales podrá
+                Las recompensas se pueden obtener de varias maneras, las cuales podrán
                 ver a continuación:
             </p>
             <div class="pt-6">
                 <ul class="list-image-[url(img/verificado1.png)] list-outside pb-10 ml-8">
-                    <li class="text-[#1E56A0] text-2xl">Pagar a tiempo la tenencia su tenencia:
+                    <li class="text-[#1E56A0] text-2xl">Pagar a tiempo su tenencia:
                         <ul>
                             <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      Deberá realizar el pago de su tenencia vehicular en tiempo y forma para generar los puntos de recompensa.</li>
                         </ul>
@@ -96,7 +98,7 @@
                             <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      El realizar el pago de sus multas lo más pronto posible a la fecha de expedición, generará más puntos de recompensa.</li>
                         </ul>
                     </li>
-                    <li class="text-[#1E56A0] text-2xl">Pagar su foto multas obtenidas durante el mes:
+                    <li class="text-[#1E56A0] text-2xl">Pagar sus foto multas obtenidas durante el mes:
                         <ul>
                             <li class="text-[#000000] text-xl p-4" style="white-space: pre;">      El realizar el pago de su foto multas lo más pronto posible a la fecha de expedición, generará más puntos de recompensa.</li>
                         </ul>
@@ -140,7 +142,7 @@
 
             <div class="col-start-2 row-start-1 h-52 w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
                 <div class="w-full pl-8 m-8 text-5xl text-[#1E56A0]">50% off</div>
-                <div class="w-10/12 m-6 text-xl font-semibold"><p>En estacionamiento centro comercial Angelópolis <br> (150 puntos).</p></div>
+                <div class="w-10/12 m-6 text-xl font-semibold"><p>En estacionamiento del centro comercial Angelópolis <br> (150 puntos).</p></div>
             </div>
 
             <div class="col-start-1 row-start-2 h-52 w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
@@ -155,12 +157,12 @@
 
             <div class="col-start-1 row-start-3 h-52 w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
                 <div class="w-full pl-8 m-8 text-5xl text-[#1E56A0]">2 x 1</div>
-                <div class="w-10/12 m-6 text-xl font-semibold"><p>Boletos Cinépolis (250 puntos). </p></div>
+                <div class="w-10/12 m-6 text-xl font-semibold"><p>Boletos en Cinépolis (250 puntos). </p></div>
             </div>
 
             <div class="col-start-2 row-start-3 h-52 w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
                 <div class="w-full pl-8 m-8 text-5xl text-[#1E56A0]">20% off</div>
-                <div class="w-10/12 m-6 text-lg font-semibold"><p>En servicios de mantenimiento de vehículos “cambio de aceite o ajuste	 de frenos” (1000 puntos).</p></div>
+                <div class="w-10/12 m-6 text-lg font-semibold"><p>En servicios de mantenimiento de vehículos: “cambio de aceite o ajuste	 de frenos” (1000 puntos).</p></div>
             </div>
         </div>
 
