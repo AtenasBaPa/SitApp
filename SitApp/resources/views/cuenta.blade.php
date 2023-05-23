@@ -1,10 +1,6 @@
 @extends('layout')
 @section('content')
-<<<<<<< Updated upstream
 <!-- Estilos de bloques de codigo que se ocultan -->
-=======
-
->>>>>>> Stashed changes
 <style>
     #seccion_cuenta{
         display: block;

@@ -179,11 +179,7 @@
             <a href="/">
                 <div class="font-medium w-auto m-auto font-just text-xl">
                     <span class="py-4">
-<<<<<<< Updated upstream
                         regresar
-=======
-                        Regresar
->>>>>>> Stashed changes
                     </span>
                 </div>
             </a>

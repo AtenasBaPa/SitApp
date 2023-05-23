@@ -7,11 +7,11 @@
     <div class="w-full h-56 bg-[#D9D9D9] rounded-md ">
         <h1 class="text-center text-4xl py-8 font-extrabold">Datos del Vehículo</h1>
         <div class="grid grid-cols-3 grid-rows-2 px-8">
-            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Marca:  </p><p class="text-xl col-span-2">Honda</p></div>
-            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Modelo: </p><p class="text-xl col-span-2">2015</p></div>
+            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Marca:  </p><p class="text-xl col-span-2">Chevrolet</p></div>
+            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Modelo: </p><p class="text-xl col-span-2">2020</p></div>
             <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Placa:  </p><p class="text-xl col-span-2">UDA-523-A</p></div>
-            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Línea:  </p><p class="text-xl col-span-2">City</p></div>
-            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Tipo:   </p><p class="text-xl col-span-2">Sedán</p></div>
+            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Línea:  </p><p class="text-xl col-span-2">Silverado</p></div>
+            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Tipo:   </p><p class="text-xl col-span-2">PickUP</p></div>
         </div>
 
     </div>
@@ -99,7 +99,7 @@
         <a href="/menu_tramites">
             <div class="font-medium w-auto m-auto font-just text-xl">
                 <span class="py-4">
-                    Regresar
+                    regresar
                 </span>
             </div>
         </a>
@@ -220,19 +220,11 @@
     <div class="w-full h-56 bg-[#D9D9D9] rounded-md ">
         <h1 class="text-center text-4xl py-8 font-extrabold">Datos del Vehículo</h1>
         <div class="grid grid-cols-3 grid-rows-2 px-8">
-<<<<<<< Updated upstream
             <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Marca:  </p><p class="text-xl col-span-2">Chevrolet</p></div>
             <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Modelo: </p><p class="text-xl col-span-2">2020</p></div>
             <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Placa:  </p><p class="text-xl col-span-2">UDA-523-A</p></div>
             <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Línea:  </p><p class="text-xl col-span-2">Silverado</p></div>
             <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Tipo:   </p><p class="text-xl col-span-2">PickUP</p></div>
-=======
-            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Marca:  </p><p class="text-xl col-span-2">-----</p></div>
-            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Modelo: </p><p class="text-xl col-span-2">----</p></div>
-            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Placa:  </p><p class="text-xl col-span-2">-----------</p></div>
-            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Línea:  </p><p class="text-xl col-span-2">-----------</p></div>
-            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Tipo:   </p><p class="text-xl col-span-2">-------</p></div>
->>>>>>> Stashed changes
         </div>
 
     </div>
@@ -249,10 +241,6 @@
         <div class="col-start-5 text-xl font-bold pt-4">Artículo</div>
         <div class="col-start-6 text-xl font-bold">Importe a <br> Pagar</div>
         <div class="col-start-7 text-xl font-bold">Estado de <br> Infracción</div>
-<<<<<<< Updated upstream
-=======
-        <div class="col-start-8 text-xl font-bold">Puntaje</div>
->>>>>>> Stashed changes
     </div>
 
     <div class="w-full grid grid-cols-9 text-center py-4 border-t-4 border-[#D9D9D9] pt-10">
@@ -268,11 +256,7 @@
         <a href="/menu_tramites">
             <div class="font-medium w-auto m-auto font-just text-xl">
                 <span class="py-4">
-<<<<<<< Updated upstream
                     regresar
-=======
-                    Regresar
->>>>>>> Stashed changes
                 </span>
             </div>
         </a>

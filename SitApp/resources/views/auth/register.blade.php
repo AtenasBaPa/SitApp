@@ -13,11 +13,7 @@
     @csrf
     <div class="grid grid-cols-4 grid-rows-6 login-form">
         <div class="control-group col-start-1 col-span-4 row-start-1">
-<<<<<<< Updated upstream
             <input type="email" class="input-password pl-6 text-lg font-semibold @error('correo') border-red-500 @enderror" required autocomplete="disable" placeholder="Ingresa su correo" id="correo" name="correo">
-=======
-            <input type="email" class="input-password pl-6 text-lg font-semibold @error('correo') border-red-500 @enderror" required autocomplete="disable" placeholder="Ingrese su correo" id="correo" name="correo">
->>>>>>> Stashed changes
             <label for="emailInput" class="login-field-icon fui-user"></label>
             @error('correo')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
@@ -25,57 +21,36 @@
         </div>
 
         <div class="control-group col-start-1 col-span-4 row-start-2">
-<<<<<<< Updated upstream
             <input type="text" class="input-password pl-6 text-lg font-semibold @error('nombre') border-red-500 @enderror" placeholder="Ingresa su nombre" id="nombre" name="nombre">
-=======
-            <input type="text" class="input-password pl-6 text-lg font-semibold @error('nombre') border-red-500 @enderror" placeholder="Ingrese su nombre" id="nombre" name="nombre">
->>>>>>> Stashed changes
             @error('nombre')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
         </div>
 
         <div class="control-group col-start-1 col-span-4 row-start-3">
-<<<<<<< Updated upstream
             <input type="password" class="input-password pl-6 text-lg font-semibold @error('password') border-red-500 @enderror" placeholder="Ingresa una contraseña" id="password" name="password">
-=======
-            <input type="password" class="input-password pl-6 text-lg font-semibold @error('password') border-red-500 @enderror" placeholder="Ingrese una contraseña" id="password" name="password">
->>>>>>> Stashed changes
             @error('password')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
         </div>
 
         <div class="control-group col-start-1 col-span-4 row-start-4">
-<<<<<<< Updated upstream
             <input type="password" class="input-password pl-6 text-lg font-semibold @error('password_confirmation') border-red-500 @enderror" placeholder="Ingresa de nuevo la contraseña" id="password_confirmation" name="password_confirmation">
-=======
-            <input type="password" class="input-password pl-6 text-lg font-semibold @error('password_confirmation') border-red-500 @enderror" placeholder="Ingrese de nuevo la contraseña" id="password_confirmation" name="password_confirmation">
->>>>>>> Stashed changes
             @error('password_confirmation')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
         </div>
 
         <div class="control-group col-start-1 col-span-4 row-start-5">
-<<<<<<< Updated upstream
             <input type="text" class="input-password pl-6 text-lg font-semibold @error('licencia') border-red-500 @enderror" placeholder="Ingresa su Numero de licencia" id="licencia" name="licencia">
-=======
-            <input type="text" class="input-password pl-6 text-lg font-semibold @error('licencia') border-red-500 @enderror" placeholder="Ingrese su número de licencia" id="licencia" name="licencia">
->>>>>>> Stashed changes
             @error('licencia')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
         </div>
 
         <div class="control-group col-start-1 col-span-4 row-start-6">
-<<<<<<< Updated upstream
             <input type="text" class="input-password pl-6 text-lg font-semibold @error('tarjeta') border-red-500 @enderror" placeholder="Ingresa su tarjeta" id="tarjeta" name="tarjeta">
             @error('tarjeta')
-=======
-            <input type="text" class="input-password pl-6 text-lg font-semibold @error('curp') border-red-500 @enderror" placeholder="Ingrese su CURP" id="curp" name="curp">
-            @error('curp')
->>>>>>> Stashed changes
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
         </div>
@@ -92,7 +67,7 @@
         </button>
 <!-- Boton para volver a pagina principal -->
         <a class="col-start-1 col-span-4 w-fit h-fit py-4 m-auto login-return transition-colors duration-500 hover:text-[#1E56A0]" href="/login">
-            Volver
+            volver
         </a>
     </div>
 </form>

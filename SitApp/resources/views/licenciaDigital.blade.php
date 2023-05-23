@@ -3,11 +3,7 @@
 @section('content')
 @auth
     <div class="w-3/4 mx-auto">
-<<<<<<< Updated upstream
         @if(isset($post->licencia_frente) && isset($post->licencia_reverso))
-=======
-        @if(isset($post->imagen))
->>>>>>> Stashed changes
             <p class="text-5xl font-semibold text-[#1E56A0] mx-auto text-center pb-10">Licencia de manejo</p>
             <div class="grid grid-cols-2 ">
                     <table class="col-start-1 mx-auto mt-6 lic mr-10">
@@ -19,11 +15,7 @@
                         </thead>
                         <tbody>
                             <tr>
-<<<<<<< Updated upstream
                                 <td class="imagen"><img class="object-center mx-auto" src="/img/post/{{$post->licencia_frente}}"></td>
-=======
-                                <td class="imagen"><img class="object-center mx-auto" src="/img/post/{{$post->imagen}}"></td>
->>>>>>> Stashed changes
                             </tr>
                         </tbody>
                     </table>
@@ -37,11 +29,7 @@
                         </thead>
                         <tbody>
                             <tr>
-<<<<<<< Updated upstream
                                 <td class="imagen"><img class="object-center mx-auto" src="/img/post/{{$post->licencia_reverso}}"></td>
-=======
-                                <td class="imagen"><img class="object-center mx-auto" src="/img/imagen-prueba.png"></td>
->>>>>>> Stashed changes
                             </tr>
                         </tbody>
                     </table>
@@ -52,17 +40,12 @@
                 <form action ="/imagenLicencia" enctype="multipart/form-data" method="POST">
                     @csrf
                     <p class="text-5xl font-semibold text-[#1E56A0] mx-auto w-full pb-20">Ingrese su licencia escaneada</p>
-<<<<<<< Updated upstream
                     <div>
                         <input type="text" class="w-52" name="no_licencia_frente" placeholder="Indique caratula: ">
                         <div class="m-8"><input type="file" name="licencia_frente"></div>
                         <input type="text" class="w-52" name="no_licencia_reverso" placeholder="Indique contraportada: ">
                         <div class="m-8"><input type="file" name="licencia_reverso"></div>
                     </div>
-=======
-                    <input type="text" name="nombre" placeholder="Ingrese nombre: ">
-                    <input type="file" name="imagen">
->>>>>>> Stashed changes
                     <button type='submit'>Guardar</button>
                     <hr><hr>
                 </form>
@@ -78,11 +61,7 @@
         </div>
 
         <div class="col-start-2 row-start-1 w-3/4 mx-auto text-center pt-20">
-<<<<<<< Updated upstream
             <div class="text-2xl text-[#1E56A0] font-semibold text-center pb-4">¿Como funciona mi puntaje?</div>
-=======
-            <div class="text-2xl text-[#1E56A0] font-semibold text-center pb-4">¿Cómo funciona mi puntaje?</div>
->>>>>>> Stashed changes
             <div class="text-xl text-black text-justify ">
                 El usuario contará con 12 puntos en su licencia de conducir. <br>
                 Cada multa tendrá un puntaje designado por falta, cada que el
@@ -93,11 +72,7 @@
         </div>
 
         <div class="col-start-1 row-start-2 w-3/4 mx-auto text-center pt-20">
-<<<<<<< Updated upstream
             <div class="text-2xl text-[#1E56A0] font-semibold text-center pb-4">¿Que pasa si tengo multas?</div>
-=======
-            <div class="text-2xl text-[#1E56A0] font-semibold text-center pb-4">¿Qué pasa si tengo multas?</div>
->>>>>>> Stashed changes
             <div class="text-xl text-black text-justify ">
             Al momento de realizar el pago de la multa, a esté, se le
             regresará solo la mitad de los puntos; ejemplo: si la multa
@@ -119,11 +94,7 @@
             <a href="/menu_tramites">
                 <div class="font-medium w-auto m-auto font-just text-xl">
                     <span class="py-4">
-<<<<<<< Updated upstream
                         regresar
-=======
-                        Regresar
->>>>>>> Stashed changes
                     </span>
                 </div>
             </a>
@@ -150,11 +121,7 @@
             <a href="/menu_tramites">
                 <div class="font-medium w-auto m-auto font-just text-xl">
                     <span class="py-4">
-<<<<<<< Updated upstream
                         regresar
-=======
-                        Regresar
->>>>>>> Stashed changes
                     </span>
                 </div>
             </a>
