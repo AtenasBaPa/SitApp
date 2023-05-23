@@ -1,6 +1,6 @@
 @extends('layout')
 @section('content')
-
+<!-- Estilos de bloques de codigo que se ocultan -->
 <style>
     #seccion_cuenta{
         display: block;

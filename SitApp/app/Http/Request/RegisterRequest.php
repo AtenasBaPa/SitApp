@@ -21,12 +21,14 @@ class RegisterRequest extends FormRequest
      */
     public function rules(): array
     {
+        /*Valida los parametros ingresados en el forms y especifica que son requeridos para el registro*/
         return [
             'correo' => 'required:unique:users,correo',
             'nombre' => 'required',
             'password' => 'required',
             'password_confirmation' => 'required|same:password',
             'licencia' => 'required|min:9',
+            'tarjeta' => 'required|min:9',
             'curp' => 'required|min:18',
         ];
     }

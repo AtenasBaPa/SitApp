@@ -1,6 +1,6 @@
 .login-screen { /* todo lo que estara adentro de login */
     width: 490px;
-    height: 660px; /*abajo*/
+    height: 720px; /*abajo*/
     background: rgba(216, 216, 216, 0.322);
     border-radius: 64px;
 }

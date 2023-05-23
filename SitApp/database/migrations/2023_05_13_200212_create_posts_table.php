@@ -11,10 +11,13 @@ return new class extends Migration
      */
     public function up(): void
     {
+        /*Se especifica el schema de la tabla posts junto con sus columnas y su tipo de dato*/
         Schema::create('posts', function (Blueprint $table) {
             $table->id();
-            $table->string('nombre')->unique();
-            $table->string('imagen')->nullable();
+            $table->string('no_licencia_frente');
+            $table->string('licencia_frente')->nullable();
+            $table->string('no_licencia_reverso');
+            $table->string('licencia_reverso')->nullable();
             $table->timestamps();
         });
     }

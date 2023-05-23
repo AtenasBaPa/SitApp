@@ -16,12 +16,13 @@ class User extends Authenticatable
      * The attributes that are mass assignable.
      *
      * @var array<int, string>
-     */
+     *//*Columnas de la tabla Users*/
     protected $fillable = [
         'correo',
         'nombre',
         'password',
         'licencia',
+        'tarjeta',
         'curp',
     ];
 
@@ -30,6 +31,7 @@ class User extends Authenticatable
      *
      * @var array<int, string>
      */
+    /*Al momento de ingresar la contraseña en el forms estará de forma oculta para mayor seguridad*/
     protected $hidden = [
         'password',
         'remember_token',
@@ -44,6 +46,8 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
+    /*Encrita la contraseña con metodos hash para evitar robo de credenciales e
+    información delicada*/
     public function setPasswordAttribute($value){
         $this->attributes['password'] = bcrypt ($value);
     }

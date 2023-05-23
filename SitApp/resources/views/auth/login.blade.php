@@ -8,6 +8,7 @@
         <div class="col-start-1 col-span-4 text-4xl py-8 row-start-1 app-title"> <!-- Clase para  el titulo que esta adentro del cuadro -->
             <h1>Bienvenido</h1>
         </div>
+        <!-- Inicia formulario para inicio de sesión -->
         <form class="col-start-1 col-span-4 row-start-2 row-span-3 w-full" method="POST" action="/login">
     @csrf
     <div class="grid grid-cols-4 grid-rows-5 login-form">
@@ -24,21 +25,21 @@
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
         </div>
-
+<!-- Boton para inicio de sesión -->
         <button class="col-start-1 col-span-4 row-start-3 mx-28 btn btn-large btn-block py-2 bg-[#7EACE9]" type="submit" value="Login">
             Iniciar Sesión
         </button>
-
+<!-- Boton para poder registrar una nueva cuenta -->
         <a class="col-start-1 col-span-4 row-start-4 login-link text-center mx-auto" href="/register">
             <span>¿No tienes una cuenta?</span> <span class="transition-colors duration-500 hover:text-[#1E56A0]"> Registrate</span>
         </a>
-
+<!-- Boton para volver a pagina principal -->
         <a class="col-start-1 col-span-4 row-start-5 w-fit m-auto login-return transition-colors duration-500 hover:text-[#1E56A0]" href="/">
             volver
         </a>
     </div>
 </form>
-
+<!-- termina formulario para inicio de sesión -->
     </div>
 
 </div>

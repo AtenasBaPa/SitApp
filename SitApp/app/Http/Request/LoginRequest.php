@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Http\Request;
+/*Librerias utilizadas para el correcto funcionamiento del controlador*/
 use Illuminate\Http\Request;
 use Illuminate\Foundation\Http\FormRequest;
 use Illuminate\Contracts\Validation\Factory as ValidationFactory;
@@ -22,35 +23,21 @@ class LoginRequest extends FormRequest
      */
     public function rules(): array
     {
+        /*Se indica que los parametros correo y password serán necesarios
+        para poder inicias sesión, de otra forma habrá un error de loggeo*/
         return [
             'correo' => 'required',
             'password' => 'required',
         ];
 
-    }
+    }/*Se obtienen las credenciales para poder validad el poder inicias sesión*/
         public function getCredentials(){
 
             $correo = $this ->get('correo');
-            /*
-            if($this->isEmail($name)){
-                    return [
-                        'email' => $name,
-                        'password' => $this->get('password')
-                    ];
-            }
-            */
+
             return $this->only('correo', 'password');
 
         }
 
-            /*
-        public function isEmail($value){
-            $factory = $this->container->make(ValidationFactory::class);
-
-            return !$factory->make(['name' => $value], ['name' => 'email'])->fails();
-
-        }
-
-        */
 
 }

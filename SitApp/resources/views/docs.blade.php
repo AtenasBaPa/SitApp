@@ -14,7 +14,7 @@
                 </div>
 
                 <div class="info">
-                    <div class="w-1/2 h-64 pt-auto mx-auto mt-8" style="background-image:url(/img/imagen-prueba.png);background-size: 90%; background-position:center;background-repeat: no-repeat;"></div>
+                    <div class="w-1/2 h-64 pt-auto mx-auto mt-8" ><img class="object-center mx-auto" src="/img/post/frente.jpg"></div>
                 </div>
 
             </div>
@@ -26,7 +26,7 @@
                 </div>
 
                 <div class="info">
-                    <div class="w-1/2 h-64 pt-auto mx-auto mt-8" style="background-image:url(/img/imagen-prueba.png);background-size: 90%; background-position:center;background-repeat: no-repeat;"></div>
+                    <div class="w-1/2 h-64 pt-auto mx-auto mt-8"><img class="object-center mx-auto" src="/img/post/reverso.jpg"></div>
                 </div>
 
             </div>

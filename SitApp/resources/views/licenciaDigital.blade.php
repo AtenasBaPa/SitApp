@@ -3,7 +3,7 @@
 @section('content')
 @auth
     <div class="w-3/4 mx-auto">
-        @if(isset($post->imagen))
+        @if(isset($post->licencia_frente) && isset($post->licencia_reverso))
             <p class="text-5xl font-semibold text-[#1E56A0] mx-auto text-center pb-10">Licencia de manejo</p>
             <div class="grid grid-cols-2 ">
                     <table class="col-start-1 mx-auto mt-6 lic mr-10">
@@ -15,7 +15,7 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td class="imagen"><img class="object-center mx-auto" src="/img/post/{{$post->imagen}}"></td>
+                                <td class="imagen"><img class="object-center mx-auto" src="/img/post/{{$post->licencia_frente}}"></td>
                             </tr>
                         </tbody>
                     </table>
@@ -29,7 +29,7 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td class="imagen"><img class="object-center mx-auto" src="/img/imagen-prueba.png"></td>
+                                <td class="imagen"><img class="object-center mx-auto" src="/img/post/{{$post->licencia_reverso}}"></td>
                             </tr>
                         </tbody>
                     </table>
@@ -40,8 +40,12 @@
                 <form action ="/imagenLicencia" enctype="multipart/form-data" method="POST">
                     @csrf
                     <p class="text-5xl font-semibold text-[#1E56A0] mx-auto w-full pb-20">Ingrese su licencia escaneada</p>
-                    <input type="text" name="nombre" placeholder="Ingrese nombre: ">
-                    <input type="file" name="imagen">
+                    <div>
+                        <input type="text" class="w-52" name="no_licencia_frente" placeholder="Indique caratula: ">
+                        <div class="m-8"><input type="file" name="licencia_frente"></div>
+                        <input type="text" class="w-52" name="no_licencia_reverso" placeholder="Indique contraportada: ">
+                        <div class="m-8"><input type="file" name="licencia_reverso"></div>
+                    </div>
                     <button type='submit'>Guardar</button>
                     <hr><hr>
                 </form>
