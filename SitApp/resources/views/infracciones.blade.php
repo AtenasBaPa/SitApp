@@ -7,11 +7,11 @@
     <div class="w-full h-56 bg-[#D9D9D9] rounded-md ">
         <h1 class="text-center text-4xl py-8 font-extrabold">Datos del Vehículo</h1>
         <div class="grid grid-cols-3 grid-rows-2 px-8">
-            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Marca:  </p><p class="text-xl col-span-2">Chevrolet</p></div>
+            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Marca:  </p><p class="text-xl col-span-2">Honda</p></div>
             <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Modelo: </p><p class="text-xl col-span-2">2020</p></div>
             <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Placa:  </p><p class="text-xl col-span-2">UDA-523-A</p></div>
-            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Línea:  </p><p class="text-xl col-span-2">Silverado</p></div>
-            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Tipo:   </p><p class="text-xl col-span-2">PickUP</p></div>
+            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Línea:  </p><p class="text-xl col-span-2">City</p></div>
+            <div class="grid grid-cols-3"><p class="font-extrabold text-2xl h-16">Tipo:   </p><p class="text-xl col-span-2">Sedán</p></div>
         </div>
 
     </div>
@@ -99,7 +99,7 @@
         <a href="/menu_tramites">
             <div class="font-medium w-auto m-auto font-just text-xl">
                 <span class="py-4">
-                    regresar
+                    Regresar
                 </span>
             </div>
         </a>
@@ -110,7 +110,7 @@
 <input type="checkbox" id="btn-modal1">
     <div class="container-modal1">
         <div class="content-modal1">
-            <h2 class="text-2xl text-[#1E56A0] font-semibold">ARTICULO 11</h2>
+            <h2 class="text-2xl text-[#1E56A0] font-semibold">ARTÍCULO 11</h2>
             <p class="text-justify">
                 Conducir sin licencia o con licencia vencida: <br><br>
                 Esta infracción está relacionada con el artículo
@@ -256,7 +256,7 @@
         <a href="/menu_tramites">
             <div class="font-medium w-auto m-auto font-just text-xl">
                 <span class="py-4">
-                    regresar
+                    Regresar
                 </span>
             </div>
         </a>

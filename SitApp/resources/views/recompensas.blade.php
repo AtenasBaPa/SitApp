@@ -85,7 +85,7 @@
                 <div class="col-span-2">
                     <div class="grid grid-cols-3 gap-3 max-w-sm bg-[#F6F6F6] border-white rounded-3xl hover:bg-blue-100 transition-all duration-200 mx-10 mr-10">
                         <div class="col-span-1 p-1.5"><img class="w-24 m-auto" src="img/iconos_tarjetas/cine.png"></div>
-                        <div class="col-span-2 text-center text-xl m-auto">Boletos Cinépolis 2x1 (500 puntos) </div>
+                        <div class="col-span-2 text-center text-xl m-auto">Boletos en Cinépolis 2x1 (500 puntos) </div>
                         <div class="col-span-3 text-center p-1.5">
                             <div class="h-2 w-full" style="border:2px solid">
                                 <div class="bg-[#1E56A0] h-1 mr-10"></div>
@@ -97,7 +97,7 @@
             </label>
 
             <div class="col-start-4 col-span-2 row-start-3 h-52" style="background-image:url(/img/Exclusive-Benefits.png); background-size: 50%; background-position:center;background-repeat: no-repeat;"></div>
-            <div class="col-start-4 col-span-2 row-start-4 text-center text-2xl">¡Cada vez que seas un conductor responsable obtendrás puntos y podrás ganar increibles recompensas!</div>
+            <div class="col-start-4 col-span-2 row-start-4 text-center text-2xl">¡Cada vez que seas un conductor responsable obtendrás puntos y podrás ganar increíbles recompensas!</div>
 
             <label for="btn-modal-recompensas" class="col-start-6 col-span-3 row-start-1 mx-auto drop-shadow-xl">
                 <div class="grid grid-cols-3 gap-3 max-w-sm bg-[#F6F6F6] border-white rounded-3xl hover:bg-blue-100 transition-all duration-200 mx-10 mr-10">
@@ -141,7 +141,7 @@
             <label for="btn-modal-recompensas" class="col-start-6 col-span-3 row-start-4 mx-auto drop-shadow-xl">
                 <div class="grid grid-cols-3 gap-3 max-w-sm bg-[#F6F6F6] border-white rounded-3xl hover:bg-blue-100 transition-all duration-200 mx-10 mr-10">
                     <div class="col-span-1 p-1.5"><img class="w-24 m-auto" src="img/iconos_tarjetas/seguro-de-auto.png"></div>
-                    <div class="col-span-2 text-center text-xl m-auto">Descuento del 15% en seguros de auto”</div>
+                    <div class="col-span-2 text-center text-xl m-auto">Descuento del 15% en seguros de auto</div>
                     <div class="col-span-3 text-center p-1.5">
                         <div class="h-2 w-full" style="border:2px solid">
                             <div class="bg-[#1E56A0] h-1 mr-20"></div>
@@ -154,7 +154,7 @@
             <label for="btn-modal-recompensas" class="col-start-6 col-span-3 row-start-5 mx-auto drop-shadow-xl">
                 <div class="grid grid-cols-3 gap-3 max-w-sm bg-[#F6F6F6] border-white rounded-3xl hover:bg-blue-100 transition-all duration-200 mx-10 mr-10">
                     <div class="col-span-1 p-1.5"><img class="w-24 m-auto" src="img/iconos_tarjetas/ambulancia.png"></div>
-                    <div class="col-span-2 text-center text-xl m-auto">Servicios de asistencia en carretera gratuitos</div>
+                    <div class="col-span-2 text-center text-xl m-auto">Servicios de asistencia en carretera gratuítos</div>
                     <div class="col-span-3 text-center p-1.5">
                         <div class="h-2 w-full" style="border:2px solid">
                             <div class="bg-[#1E56A0] h-1 mr-20"></div>
@@ -393,7 +393,7 @@
 
             <div class="col-start-2 row-start-1 alto-tarjeta-r w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
                 <div class="w-full h-44 text-5xl text-[#1E56A0]" style="background-image:url(/img/iconos_tarjetas/cine.png); background-size: 40%; background-position:center;background-repeat: no-repeat;"></div>
-                <div class="w-10/12 m-6 text-xl text-[#1E56A0] font-bold"><p>Boletos Cinépolis 2x1 (500 puntos) </p></div>
+                <div class="w-10/12 m-6 text-xl text-[#1E56A0] font-bold"><p>Boletos en Cinépolis 2x1 (500 puntos) </p></div>
                 <div class="w-10/12 m-6 text-md font-semibold"><p>Canjea puntos de recompensa para boletos 2x1 en salas tradicional y VIP.</p></div>
             </div>
 
@@ -424,7 +424,7 @@
             <div class="col-start-1 row-start-4 alto-tarjeta-r w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
                 <div class="w-full h-44 text-5xl text-[#1E56A0]" style="background-image:url(/img/iconos_tarjetas/ambulancia.png); background-size: 40%; background-position:center;background-repeat: no-repeat;"></div>
                 <div class="w-10/12 m-6 text-xl text-[#1E56A0] font-bold"><p>Servicios de asistencia en carretera gratuitos: (500 puntos) </p></div>
-                <div class="w-10/12 m-6 text-md font-semibold"><p>Canjea puntos de recompensa para obtener servicios de asistencia en carretera gratuitos, como remolque, cambio de llantas o servicio de batería. </p></div>
+                <div class="w-10/12 m-6 text-md font-semibold"><p>Canjea puntos de recompensa para obtener servicios de asistencia en carretera gratuítos, como remolque, cambio de llantas o servicio de batería. </p></div>
             </div>
 
             <div class="col-start-2 row-start-4 alto-tarjeta-r w-96 rounded-3xl bg-[#F6F6F6] drop-shadow-xl">
@@ -444,7 +444,7 @@
             <a href="/menu_tramites">
                 <div class="font-medium w-auto m-auto font-just text-xl">
                     <span class="py-4">
-                        regresar
+                        Regresar
                     </span>
                 </div>
             </a>
@@ -458,7 +458,7 @@
             <h2 class="text-2xl text-[#1E56A0] font-semibold">¡FELICIDADES!</h2>
             <p class="text-justify">
                 Haz completado los puntos necesarios para poder canjear esta recompensa.
-                <br> Deseas canjearla?
+                <br> ¿Deseas canjearla?
             </p>
 
             <div class="grid grid-cols-2">

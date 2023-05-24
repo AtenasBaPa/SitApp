@@ -61,7 +61,7 @@
         </div>
 
         <div class="col-start-2 row-start-1 w-3/4 mx-auto text-center pt-20">
-            <div class="text-2xl text-[#1E56A0] font-semibold text-center pb-4">¿Como funciona mi puntaje?</div>
+            <div class="text-2xl text-[#1E56A0] font-semibold text-center pb-4">¿Cómo funciona mi puntaje?</div>
             <div class="text-xl text-black text-justify ">
                 El usuario contará con 12 puntos en su licencia de conducir. <br>
                 Cada multa tendrá un puntaje designado por falta, cada que el
@@ -72,7 +72,7 @@
         </div>
 
         <div class="col-start-1 row-start-2 w-3/4 mx-auto text-center pt-20">
-            <div class="text-2xl text-[#1E56A0] font-semibold text-center pb-4">¿Que pasa si tengo multas?</div>
+            <div class="text-2xl text-[#1E56A0] font-semibold text-center pb-4">¿Qué pasa si tengo multas?</div>
             <div class="text-xl text-black text-justify ">
             Al momento de realizar el pago de la multa, a esté, se le
             regresará solo la mitad de los puntos; ejemplo: si la multa
@@ -94,7 +94,7 @@
             <a href="/menu_tramites">
                 <div class="font-medium w-auto m-auto font-just text-xl">
                     <span class="py-4">
-                        regresar
+                        Regresar
                     </span>
                 </div>
             </a>
@@ -121,7 +121,7 @@
             <a href="/menu_tramites">
                 <div class="font-medium w-auto m-auto font-just text-xl">
                     <span class="py-4">
-                        regresar
+                        Regresar
                     </span>
                 </div>
             </a>

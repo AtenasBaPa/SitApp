@@ -33,8 +33,9 @@
                     En primavera de 2023, por un proyecto de la universidad con el objetivo de reducir
                     los accidentes viales, surgió la idea por un grupo de estudiantes de la licenciatura
                     de Gestión de Ciudades Inteligentes y Transiciones Tecnológicas, con el apoyo de
-                    estudiantes de la facultad de Ciencias de la Computación, tratando de apoyar a cientos
-                    de conductores de la ciudad de Puebla, es así como nació está aplicación web:
+                    estudiantes de Ingeniegia en Tecnologías de la Información de la facultad de Ciencias 
+                    de la Computación, tratando de apoyar a cientos de conductores de la ciudad de Puebla, 
+                    es así como nació está aplicación web:
                 </p>
 
                 <p class="text-2xl py-4">

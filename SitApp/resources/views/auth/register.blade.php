@@ -13,7 +13,7 @@
     @csrf
     <div class="grid grid-cols-4 grid-rows-6 login-form">
         <div class="control-group col-start-1 col-span-4 row-start-1">
-            <input type="email" class="input-password pl-6 text-lg font-semibold @error('correo') border-red-500 @enderror" required autocomplete="disable" placeholder="Ingresa su correo" id="correo" name="correo">
+            <input type="email" class="input-password pl-6 text-lg font-semibold @error('correo') border-red-500 @enderror" required autocomplete="disable" placeholder="Ingrese su correo" id="correo" name="correo">
             <label for="emailInput" class="login-field-icon fui-user"></label>
             @error('correo')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
@@ -21,35 +21,35 @@
         </div>
 
         <div class="control-group col-start-1 col-span-4 row-start-2">
-            <input type="text" class="input-password pl-6 text-lg font-semibold @error('nombre') border-red-500 @enderror" placeholder="Ingresa su nombre" id="nombre" name="nombre">
+            <input type="text" class="input-password pl-6 text-lg font-semibold @error('nombre') border-red-500 @enderror" placeholder="Ingrese su nombre" id="nombre" name="nombre">
             @error('nombre')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
         </div>
 
         <div class="control-group col-start-1 col-span-4 row-start-3">
-            <input type="password" class="input-password pl-6 text-lg font-semibold @error('password') border-red-500 @enderror" placeholder="Ingresa una contraseña" id="password" name="password">
+            <input type="password" class="input-password pl-6 text-lg font-semibold @error('password') border-red-500 @enderror" placeholder="Ingrese una contraseña" id="password" name="password">
             @error('password')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
         </div>
 
         <div class="control-group col-start-1 col-span-4 row-start-4">
-            <input type="password" class="input-password pl-6 text-lg font-semibold @error('password_confirmation') border-red-500 @enderror" placeholder="Ingresa de nuevo la contraseña" id="password_confirmation" name="password_confirmation">
+            <input type="password" class="input-password pl-6 text-lg font-semibold @error('password_confirmation') border-red-500 @enderror" placeholder="Ingrese de nuevo la contraseña" id="password_confirmation" name="password_confirmation">
             @error('password_confirmation')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
         </div>
 
         <div class="control-group col-start-1 col-span-4 row-start-5">
-            <input type="text" class="input-password pl-6 text-lg font-semibold @error('licencia') border-red-500 @enderror" placeholder="Ingresa su Numero de licencia" id="licencia" name="licencia">
+            <input type="text" class="input-password pl-6 text-lg font-semibold @error('licencia') border-red-500 @enderror" placeholder="Ingrese su numero de licencia" id="licencia" name="licencia">
             @error('licencia')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
         </div>
 
         <div class="control-group col-start-1 col-span-4 row-start-6">
-            <input type="text" class="input-password pl-6 text-lg font-semibold @error('tarjeta') border-red-500 @enderror" placeholder="Ingresa su tarjeta" id="tarjeta" name="tarjeta">
+            <input type="text" class="input-password pl-6 text-lg font-semibold @error('tarjeta') border-red-500 @enderror" placeholder="Ingrese su tarjeta de circulación" id="tarjeta" name="tarjeta">
             @error('tarjeta')
                 <p class="text-red-500 text-sm">{{ $message }}</p>
             @enderror
@@ -67,7 +67,7 @@
         </button>
 <!-- Boton para volver a pagina principal -->
         <a class="col-start-1 col-span-4 w-fit h-fit py-4 m-auto login-return transition-colors duration-500 hover:text-[#1E56A0]" href="/login">
-            volver
+            Volver
         </a>
     </div>
 </form>

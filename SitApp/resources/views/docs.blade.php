@@ -78,7 +78,7 @@
             <a href="/menu_tramites">
                 <div class="font-medium w-auto m-auto font-just text-xl">
                     <span class="py-4">
-                        regresar
+                        Regresar
                     </span>
                 </div>
             </a>
@@ -103,7 +103,7 @@
             <a href="/menu_tramites">
                 <div class="font-medium w-auto m-auto font-just text-xl">
                     <span class="py-4">
-                        regresar
+                        Regresar
                     </span>
                 </div>
             </a>

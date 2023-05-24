@@ -53,7 +53,7 @@
                         </div>
 
                         <div class="col-start-1 row-start-4 ml-10 w-48">
-                            <p class="text-xl text-[#1E56A0]">No de licencia: </p>
+                            <p class="text-xl text-[#1E56A0]">No. de licencia: </p>
                         </div>
 
                         <div class="col-start-2 row-start-3 w-48">
