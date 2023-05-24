@@ -4,12 +4,11 @@ module.exports = {
     "./resources/**/*.blade.php",
     "./resources/**/*.js",
     "./resources/**/*.vue",
-],
+  ],
   theme: {
-
     fontFamily:{
-        'jose' : ['Josefin Sans', 'sans-serif']
-      },
+      'josefina':['Josefin Sans']
+    },
     extend: {},
   },
   plugins: [],

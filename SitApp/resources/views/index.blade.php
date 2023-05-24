@@ -48,27 +48,11 @@
 <!--CONTENIDO DE INFORMACIÓN-->
 <div class="w-full h-56 mt-32 text-center">
     <p class="font-bold text-xl">“SitApp es una herramienta muy útil para los conductores de Puebla. <br>
-<<<<<<< Updated upstream
-    He estado usándolo durante los últimos 6 meses y es de gran <br> ayuda para gestionarme como conductor.”
-    <br> <p class="text-lg">- Eduardo, Conductor de Puebla.</p> </p>
-=======
     He estado usándolo durante los últimos 6 meses y es de gran <br> ayuda para mejorar como conductor.”
     <br> <p class="text-lg pt-6">- Abraham, Conductor de Puebla.</p> </p>
->>>>>>> Stashed changes
 </div>
 
-<div class="w-full h-96 mt-20 text-center bg-[#F0F0F0]">
-    <p class="text-left my-10 pt-10 text-2xl font-bold pl-52">Acerca de nosotros</p>
-    <p class="text-center text-2xl px-64">Esto es SitApp, un sistema de gestión para conductores en la ciudad de Puebla. Estamos aquí para ayudar a los conductores <br>
-    a ahorrar tiempo e incluso dinero al gestionar sus actividades diarias al conducir. Con nuestro sistema, los conductores <br>
-    pueden controlar fácilmente su informacion, multas, tenencias, verificación vehicular y muchas cosas mas. También nos <br>
-    enorgullece ofrecer una solución de seguridad vial para los conductores y sus vehículos. Ayudamos a los conductores a <br>
-    prevenir problemas inesperados al proporcionarles un seguro de viaje adecuado. Así mismo, nuestro sistema también les <br>
-    proporciona datos de tráfico y estacionamiento en tiempo real para que puedan tomar decisiones informadas. ¡Estamos muy <br>
-    emocionados por la oportunidad.</p>
 
-<<<<<<< Updated upstream
-=======
 <div class="h-20"></div>
 
 <div class=" w-3/5 py-10 m-auto">
@@ -181,7 +165,7 @@
         </div>
 
     </div>
->>>>>>> Stashed changes
 </div>
+
 @endsection
 
